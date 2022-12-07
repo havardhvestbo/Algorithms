@@ -1,4 +1,4 @@
-package no.ntnu.idata2302.lab04;
+package no.ntnu.idata2302.lab04.BinaryTree;
 
 
 class Node {
